@@ -1,0 +1,15 @@
+.title{ /* fuente de titulo*/
+			font-family: 'Comic Neue', cursive;
+			color: #FFFFFF;
+		}
+
+		body{
+			background-color: #39BADE;
+		}
+
+		.fondo_oscuro{
+			background-color: #454d55;
+		}
+		.font_bold{
+			font-weight: bold;
+		}
